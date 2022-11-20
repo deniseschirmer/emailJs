@@ -1,36 +1,59 @@
-<p align="center>
-<img alt="Readme width="460" height="300"
-src=".assets/gif.webm.gif"></p>
+<h1 style="text-align: center; font-weight: bold;">EmailJs</h1>
+
+## Demo 📸
+
+<div align="center" >
+   <img src="./github/gif.webm" alt="demo-mobile" height="425">
+</div>
+ ---
 
 ## Sobre o Projeto
 O Projeto Todo foi desenvolvido para fins de estudo sobre React com emailJs.
 
+### Link do projeto: https://formemailjs.netlify.app/
+
 ### 🛠 Tecnologias
 #### As seguintes ferramentas foram usadas na construção do projeto:
-#### React
-emailJs
 
-React
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
+- [React](https://pt-br.reactjs.org/)
+- [emailJs](https://www.emailjs.com/)
 
-🎲 Rodando o projeto
+--- 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### Clone este repositório
-$ git clone https://github.com/deniseschirmer/emailJs
+### 🎲 Rodando o projeto
 
- Acesse a pasta do projeto no terminal/cmd
+```bash
+# Clone este repositório
+$ git clone  https://github.com/deniseschirmer/emailJs
 
-#### Instale as dependências
+# Acesse a pasta do projeto no terminal/cmd
+
+# Instale as dependências
 $ yarn
- ou
+# ou
 $ npm install
 
-#### Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação em modo de desenvolvimento
 $ yarn dev
- ou
+# ou
 $ npm run dev
 
-### Made with love by: Denise Schirmer
+```
+
+
+
+<a href="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png">
+<img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="linkedin" height="50"></a>
+<br />
+
+#### Made with love by: Denise Schirmer
 [See my linkedIn](https://www.linkedin.com/in/denise-s-lima-schirmer-9702661ba/)
+
+
+
+
 
 
